@@ -6,10 +6,19 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonaleebhattacharyya/deployment-lab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sonaleebhattacharyya/deployment-lab/issues"
+  },
+  "homepage": "https://github.com/sonaleebhattacharyya/deployment-lab#readme",
   "description": ""
 }
